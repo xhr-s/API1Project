@@ -1,0 +1,1 @@
+const url = "https://extinct-api.herokuapp.com/api/v1/animal/"

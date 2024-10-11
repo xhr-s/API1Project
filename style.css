@@ -1,0 +1,40 @@
+body{
+    background-color:cornsilk;
+    margin:0
+}
+
+.title {
+ text-align: center;
+ background-color: bisque;
+ outline: auto;
+ outline-color: chocolate;
+ outline-style:solid;
+ border-radius: 1px;
+ margin:30px
+}
+
+.container {
+    display: flex;
+    background-color: bisque;
+    margin: 10px;
+    outline: auto;
+    outline-color: chocolate;
+    }
+
+.img {
+    display: flex;
+    outline: auto;
+    outline-color: chocolate;
+}
+
+.names {
+    text-align:center;
+    margin:5px;
+    background-color: chocolate;
+    outline: auto;
+    outline-color:  chocolate;
+}
+
+.info {
+    margin: 5px;
+}
